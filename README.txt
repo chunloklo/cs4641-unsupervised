@@ -1,4 +1,7 @@
-Code for each dataset is stored in separate ipynb files.
+Please visit https://github.com/chunloklo/cs4641-unsupervised for the code.
+
+Code to run experiments with each dataset is stored in separate ipynb files.
+There are two datasets, the MAGIC Gamma telescope dataset and forest cover type dataset.
 
 For the clustering code, please run
 MAGICGamma.ipynb
